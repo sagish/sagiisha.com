@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "autoprefixer": "true8.2.0",
+    "postcss-modules": "true1.1.0"
+  },
+  "devDependencies": {
+    "node-sass": "true4.8.3"
+  }
+}
