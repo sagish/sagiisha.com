@@ -37,7 +37,8 @@ body {
   border: .5rem solid rgba(255,255,255,.85);
 
   &:hover {
-  transform: rotate(360deg);
+    transform: translateY(-2em);
+    box-shadow: 0 2em 2em rgba(0,0,0,.25);
   }
 }
 
